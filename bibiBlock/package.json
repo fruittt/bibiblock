@@ -23,6 +23,11 @@
     "build": "node build/build.js wx"
   },
   "dependencies": {
+    "@antv/f2": "^3.4.0",
+    "@antv/f2-canvas": "^1.0.5",
+    "@antv/wx-f2": "^1.1.4",
+    "less": "^3.9.0",
+    "less-loader": "^5.0.0",
     "mpvue": "^2.0.0",
     "vuex": "^3.0.1"
   },
